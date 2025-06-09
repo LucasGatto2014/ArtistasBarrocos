@@ -1,0 +1,56 @@
+img {
+    width:30%
+}
+
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+}
+
+th,td {
+    border: 2px solid bisque;
+    padding: 5px;
+    text-align: left;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 24px;
+    color: aquamarine;
+}
+
+thead {
+    background-color: rgb(78, 46, 0);
+}
+
+.l1 {
+    background-color: rgb(137, 99, 46);
+}
+
+.l2 {
+    background-color:antiquewhite;
+    color: rgb(78, 46, 0);
+}
+
+tfoot td {
+    text-align: center;
+    font-style: italic;
+}
+
+h1 {
+    color: rgb(220, 17, 17);
+}
+
+h2 {
+    color:rgb(220, 165, 0) ;
+}
